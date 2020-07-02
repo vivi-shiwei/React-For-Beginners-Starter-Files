@@ -8,7 +8,7 @@ const Header = props => (
         <span className="of">Of</span>
         <span className="the">The</span>
       </span>
-      Day
+      Dayf
     </h1>
     <h3 className="tagline">
       <span>{props.tagline}</span>
